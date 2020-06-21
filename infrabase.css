@@ -111,7 +111,7 @@
 }
 
 body {
-  font-family: 'Inter ui', sans-serif;
+  font-family: 'Inter', sans-serif;
   color: #828aa5;
   font-size: 18px;
   line-height: 180%;
@@ -6671,6 +6671,7 @@ figcaption {
     justify-self: center;
   }
 }
+/*
 @font-face {
   font-family: 'Inter ui';
   src: url('https://uploads-ssl.webflow.com/5e5d826ae4a099004ef23f02/5e5d91392c687c92891f4cc7_Inter-UI-BoldItalic.woff2') format('woff2'), url('https://uploads-ssl.webflow.com/5e5d826ae4a099004ef23f02/5e5d913989e25b75a616f628_Inter-UI-ExtraBoldItalic.woff2') format('woff2');
@@ -6731,3 +6732,4 @@ figcaption {
   font-weight: 400;
   font-style: normal;
 }
+*/
