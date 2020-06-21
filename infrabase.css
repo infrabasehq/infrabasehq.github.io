@@ -878,13 +878,11 @@ figcaption {
   z-index: -1;
 }
 
-/*
 .background-image {
   background-image: url("https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png");
   background-position: 0px 0px;
   background-size: 125px;
 }
-*/
 
 .bold {
   font-weight: 700;
@@ -1670,7 +1668,6 @@ figcaption {
   color: #828aa5;
   font-size: 18px;
 }
-/*
 .input.newsletter {
   margin-bottom: 13px;
   padding-left: 50px;
@@ -1698,7 +1695,7 @@ figcaption {
   background-size: auto;
   background-repeat: no-repeat;
 }
-*/
+
 ._404-title {
   margin-bottom: -242px;
   color: rgba(41, 59, 155, 0.07);
@@ -6726,10 +6723,10 @@ figcaption {
   font-weight: 700;
   font-style: normal;
 }
+*/
 @font-face {
   font-family: 'Dropdown icon';
   src: url('https://uploads-ssl.webflow.com/5e5d826ae4a099004ef23f02/5ea20895685b45ec442ff4c6_dropdown-icon.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
 }
-*/
