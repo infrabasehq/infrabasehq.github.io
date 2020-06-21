@@ -393,7 +393,7 @@ figcaption {
 }
 
 .section.background-image {
-  background-image: url("5e6133622ea57b6b714df0c0_background-saasy-template.png");
+  background-image: url("images/5e6133622ea57b6b714df0c0_background-saasy-template.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -4498,7 +4498,7 @@ figcaption {
     padding-bottom: 80px;
   }
   .section.background-image {
-    background-image: url("5e6b07a61278537efc2a89e3_cta-banner-bg-table.jpg");
+    background-image: url("images/5e6b07a61278537efc2a89e3_cta-banner-bg-table.jpg");
   }
   .section.bg-gradient {
     overflow: hidden;
@@ -5660,7 +5660,7 @@ figcaption {
   }
   .section.background-image {
     padding-bottom: 330px;
-    background-image: url("5e6b08283dfad81cb6ca7888_cta-banner-bg-mobile.jpg");
+    background-image: url("images/5e6b08283dfad81cb6ca7888_cta-banner-bg-mobile.jpg");
   }
   .section.bg-gradient {
     background-image: -webkit-gradient(linear, left bottom, left top, color-stop(20%, #2253ff), color-stop(0, #f4f7fa));
