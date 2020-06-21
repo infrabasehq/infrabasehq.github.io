@@ -393,7 +393,7 @@ figcaption {
 }
 
 .section.background-image {
-  background-image: url("https://uploads-ssl.webflow.com/5e5d826ae4a099004ef23f02/5e6133622ea57b6b714df0c0_background-saasy-template.png");
+  background-image: url("5e6133622ea57b6b714df0c0_background-saasy-template.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -878,11 +878,13 @@ figcaption {
   z-index: -1;
 }
 
+/*
 .background-image {
   background-image: url("https://d3e54v103j8qbb.cloudfront.net/img/example-bg.png");
   background-position: 0px 0px;
   background-size: 125px;
 }
+*/
 
 .bold {
   font-weight: 700;
@@ -1668,7 +1670,7 @@ figcaption {
   color: #828aa5;
   font-size: 18px;
 }
-
+/*
 .input.newsletter {
   margin-bottom: 13px;
   padding-left: 50px;
@@ -1696,7 +1698,7 @@ figcaption {
   background-size: auto;
   background-repeat: no-repeat;
 }
-
+*/
 ._404-title {
   margin-bottom: -242px;
   color: rgba(41, 59, 155, 0.07);
@@ -4496,7 +4498,7 @@ figcaption {
     padding-bottom: 80px;
   }
   .section.background-image {
-    background-image: url("https://uploads-ssl.webflow.com/5e5d826ae4a099004ef23f02/5e6b07a61278537efc2a89e3_cta-banner-bg-table.jpg");
+    background-image: url("5e6b07a61278537efc2a89e3_cta-banner-bg-table.jpg");
   }
   .section.bg-gradient {
     overflow: hidden;
@@ -5658,7 +5660,7 @@ figcaption {
   }
   .section.background-image {
     padding-bottom: 330px;
-    background-image: url("https://uploads-ssl.webflow.com/5e5d826ae4a099004ef23f02/5e6b08283dfad81cb6ca7888_cta-banner-bg-mobile.jpg");
+    background-image: url("5e6b08283dfad81cb6ca7888_cta-banner-bg-mobile.jpg");
   }
   .section.bg-gradient {
     background-image: -webkit-gradient(linear, left bottom, left top, color-stop(20%, #2253ff), color-stop(0, #f4f7fa));
