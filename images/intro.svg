@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="intro.svg"
+   id="svg160"
+   version="1.1"
+   fill="none"
+   viewBox="0 0 586 480"
+   height="480"
+   width="586">
+  <metadata
+     id="metadata164">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg160"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="240"
+     inkscape:cx="293"
+     inkscape:zoom="1.7901024"
+     showgrid="false"
+     id="namedview162"
+     inkscape:window-height="1027"
+     inkscape:window-width="2560"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <g
+     id="g4"
+     filter="url(#filter0_ddd)">
+    <rect
+       id="rect2"
+       fill="white"
+       rx="17.2144"
+       height="376"
+       width="418.267"
+       y="37"
+       x="45.627" />
+  </g>
+  <rect
+     id="rect6"
+     fill="#F3F6FC"
+     rx="12.3704"
+     height="25.4272"
+     width="386.074"
+     y="76.52"
+     x="61.0093" />
+  <rect
+     id="rect8"
+     fill="#C0C9E2"
+     rx="3.57747"
+     height="7.15494"
+     width="112.93"
+     y="85.6511"
+     x="72.9873" />
+  <rect
+     id="rect10"
+     fill="#C0C9E2"
+     rx="3.57747"
+     height="7.15494"
+     width="32.0676"
+     y="85.6511"
+     x="188.817" />
+  <rect
+     id="rect12"
+     fill="#F2F4F8"
+     rx="10.3911"
+     height="211.403"
+     width="189.02"
+     y="108.966"
+     x="61.0093" />
+  <circle
+     id="circle14"
+     fill="#F8334A"
+     r="6.13948"
+     cy="57.6367"
+     cx="67.1488" />
+  <circle
+     id="circle16"
+     fill="#F7C31D"
+     r="6.13948"
+     cy="57.6367"
+     cx="85.3655" />
+  <circle
+     id="circle18"
+     fill="#38D535"
+     r="6.13948"
+     cy="57.6367"
+     cx="103.581" />
+  <rect
+     id="rect20"
+     fill="#C0C9E2"
+     rx="2.77454"
+     height="5.54909"
+     width="109.749"
+     y="337.809"
+     x="93.7188" />
+  <rect
+     id="rect22"
+     fill="#C0C9E2"
+     rx="2.77454"
+     height="5.54909"
+     width="70.2884"
+     y="337.809"
+     x="303.351" />
+  <rect
+     id="rect24"
+     fill="#C0C9E2"
+     rx="3.08283"
+     height="6.16565"
+     width="127.012"
+     y="371.104"
+     x="93.7188" />
+  <rect
+     id="rect26"
+     fill="#C0C9E2"
+     rx="3.08283"
+     height="6.16565"
+     width="117.147"
+     y="371.104"
+     x="303.351" />
+  <rect
+     id="rect28"
+     fill="#E4E8F4"
+     rx="2.93785"
+     height="5.87571"
+     width="66.8362"
+     y="348.069"
+     x="93.9102" />
+  <rect
+     id="rect30"
+     fill="#E4E8F4"
+     rx="2.77454"
+     height="5.54909"
+     width="120.847"
+     y="348.291"
+     x="303.351" />
+  <rect
+     id="rect32"
+     fill="#E4E8F4"
+     rx="3.08283"
+     height="6.16565"
+     width="78.9203"
+     y="382.202"
+     x="303.351" />
+  <rect
+     id="rect34"
+     fill="#E4E8F4"
+     rx="2.77454"
+     height="5.54909"
+     width="75.2209"
+     y="381.585"
+     x="93.7188" />
+  <rect
+     id="rect36"
+     fill="#E4E7ED"
+     rx="2.93785"
+     height="5.87571"
+     width="66.0811"
+     y="288.008"
+     x="119.569" />
+  <circle
+     id="circle38"
+     fill="#DDE9FE"
+     r="13.155"
+     cy="345.814"
+     cx="74.1643" />
+  <path
+     id="path40"
+     fill="#3180FF"
+     d="M76.9156 342.375C76.9156 343.895 75.6853 345.126 74.1648 345.126C72.6444 345.126 71.4141 343.895 71.4141 342.375C71.4141 340.854 72.6444 339.624 74.1648 339.624C75.6853 339.624 76.9156 340.854 76.9156 342.375Z" />
+  <path
+     id="path42"
+     fill="#3180FF"
+     d="M74.1649 347.189C72.0991 347.189 67.9756 348.226 67.9756 350.283V351.315C67.9756 351.694 68.2845 352.003 68.6633 352.003H79.6664C80.0452 352.003 80.3541 351.694 80.3541 351.315V350.283C80.3541 348.226 76.2306 347.189 74.1649 347.189Z" />
+  <circle
+     id="circle44"
+     fill="#DDE9FE"
+     r="13.155"
+     cy="345.814"
+     cx="283.382" />
+  <path
+     id="path46"
+     fill="#3180FF"
+     d="M286.133 342.375C286.133 343.895 284.903 345.126 283.382 345.126C281.862 345.126 280.631 343.895 280.631 342.375C280.631 340.855 281.862 339.624 283.382 339.624C284.903 339.624 286.133 340.855 286.133 342.375Z" />
+  <path
+     id="path48"
+     fill="#3180FF"
+     d="M283.382 347.189C281.316 347.189 277.193 348.226 277.193 350.283V351.315C277.193 351.694 277.502 352.003 277.881 352.003H288.884C289.262 352.003 289.571 351.694 289.571 351.315V350.283C289.571 348.226 285.448 347.189 283.382 347.189Z" />
+  <circle
+     id="circle50"
+     fill="#DDE9FE"
+     r="13.155"
+     cy="379.24"
+     cx="74.1643" />
+  <path
+     id="path52"
+     fill="#3180FF"
+     d="M76.9156 375.801C76.9156 377.321 75.6853 378.552 74.1648 378.552C72.6444 378.552 71.4141 377.321 71.4141 375.801C71.4141 374.281 72.6444 373.05 74.1648 373.05C75.6853 373.05 76.9156 374.281 76.9156 375.801Z" />
+  <path
+     id="path54"
+     fill="#3180FF"
+     d="M74.1649 380.615C72.0991 380.615 67.9756 381.652 67.9756 383.71V384.741C67.9756 385.12 68.2845 385.429 68.6633 385.429H79.6664C80.0452 385.429 80.3541 385.12 80.3541 384.741V383.71C80.3541 381.652 76.2306 380.615 74.1649 380.615Z" />
+  <circle
+     id="circle56"
+     fill="#DDE9FE"
+     r="13.155"
+     cy="379.24"
+     cx="283.382" />
+  <path
+     id="path58"
+     fill="#3180FF"
+     d="M286.133 375.801C286.133 377.321 284.903 378.552 283.382 378.552C281.862 378.552 280.631 377.321 280.631 375.801C280.631 374.28 281.862 373.05 283.382 373.05C284.903 373.05 286.133 374.28 286.133 375.801Z" />
+  <path
+     id="path60"
+     fill="#3180FF"
+     d="M283.382 380.615C281.316 380.615 277.193 381.652 277.193 383.71V384.741C277.193 385.12 277.502 385.429 277.881 385.429H288.884C289.262 385.429 289.571 385.12 289.571 384.741V383.71C289.571 381.652 285.448 380.615 283.382 380.615Z" />
+  <rect
+     id="rect70"
+     fill="#F2F4F8"
+     rx="10.3911"
+     height="211.403"
+     width="189.02"
+     y="108.966"
+     x="258.063" />
+  <path
+     id="path72"
+     fill="#FF3868"
+     d="M351.841 215.581V160.665C321.826 161.033 297.607 185.479 297.607 215.581L297.608 215.581C297.608 243.606 318.598 266.728 345.715 270.083L352.528 215.581H351.841Z"
+     clip-rule="evenodd"
+     fill-rule="evenodd" />
+  <path
+     id="path74"
+     fill="#0B63F4"
+     d="M405.894 202.188L351.69 215.959V160.669C351.92 160.666 352.15 160.665 352.38 160.665C378.15 160.665 399.799 178.316 405.894 202.188Z"
+     clip-rule="evenodd"
+     fill-rule="evenodd" />
+  <path
+     id="path76"
+     fill="#6938F5"
+     d="M352.013 270.753H352.645C382.963 270.583 407.494 245.975 407.539 215.627V215.461C407.532 210.872 406.965 206.414 405.903 202.152L351.901 215.729L345.477 270.333C347.62 270.598 349.801 270.741 352.013 270.753Z"
+     clip-rule="evenodd"
+     fill-rule="evenodd" />
+  <g
+     id="g106"
+     filter="url(#filter1_d)">
+    <rect
+       id="rect78"
+       fill="white"
+       rx="11.4763"
+       height="258.131"
+       width="143.401"
+       y="86.995"
+       x="402.195" />
+    <rect
+       id="rect80"
+       stroke-width="0.327481"
+       stroke-opacity="0.3"
+       stroke="#C5CCD8"
+       rx="11.3125"
+       height="257.803"
+       width="143.073"
+       y="87.1587"
+       x="402.359" />
+    <rect
+       id="rect82"
+       fill="#EFF4FA"
+       rx="11.4763"
+       height="221.945"
+       width="126.13"
+       y="114.108"
+       x="410.831" />
+    <circle
+       id="circle84"
+       fill="#F8334A"
+       r="3.7427"
+       cy="101.4"
+       cx="414.574" />
+    <circle
+       id="circle86"
+       fill="#F6C31D"
+       r="3.7427"
+       cy="101.4"
+       cx="426.877" />
+    <circle
+       id="circle88"
+       fill="#38D435"
+       r="3.7427"
+       cy="101.4"
+       cx="439.18" />
+    <rect
+       id="rect90"
+       fill="#93A9CC"
+       rx="3.34154"
+       height="6.68308"
+       width="92.7403"
+       y="139.881"
+       x="427.526" />
+    <rect
+       id="rect92"
+       fill="#93A9CC"
+       rx="3.34248"
+       height="6.68496"
+       width="63.0917"
+       y="152.797"
+       x="442.351" />
+    <rect
+       id="rect94"
+       fill="#C6D0E2"
+       rx="2.93785"
+       height="5.87571"
+       width="90.2425"
+       y="173.193"
+       x="428.775" />
+    <rect
+       id="rect96"
+       fill="#C6D0E2"
+       rx="2.93785"
+       height="5.87571"
+       width="90.2425"
+       y="185.997"
+       x="428.775" />
+    <rect
+       id="rect98"
+       fill="#C6D0E2"
+       rx="2.93785"
+       height="5.87571"
+       width="65.7149"
+       y="198.464"
+       x="441.039" />
+    <rect
+       id="rect100"
+       fill="#2173F7"
+       rx="1.97926"
+       height="21.5017"
+       width="87.3753"
+       y="218.215"
+       x="430.208" />
+    <path
+       id="path102"
+       fill="#C6D0E2"
+       d="M512.287 268.437C512.287 272.96 508.622 276.626 504.099 276.626C499.576 276.626 495.91 272.96 495.91 268.437C495.91 263.914 499.576 260.248 504.099 260.248C508.622 260.248 512.287 263.914 512.287 268.437Z" />
+    <path
+       id="path104"
+       fill="#C6D0E2"
+       d="M461.524 270.809C462.311 269.665 464 269.665 464.786 270.809L482.71 296.88C482.898 297.154 483.297 297.168 483.504 296.909L491.635 286.746C492.427 285.756 493.934 285.756 494.726 286.746L512.444 308.894C513.481 310.19 512.558 312.109 510.899 312.109H493.18C493.18 312.109 493.18 312.109 493.18 312.109C493.18 312.109 493.18 312.109 493.18 312.109H436.893C435.3 312.109 434.359 310.322 435.262 309.009L461.524 270.809Z"
+       clip-rule="evenodd"
+       fill-rule="evenodd" />
+  </g>
+  <defs
+     id="defs158">
+    <filter
+       color-interpolation-filters="sRGB"
+       filterUnits="userSpaceOnUse"
+       height="479.583"
+       width="509.519"
+       y="0.00609493"
+       x="0.00113678"
+       id="filter0_ddd">
+      <feFlood
+         id="feFlood108"
+         result="BackgroundImageFix"
+         flood-opacity="0" />
+      <feColorMatrix
+         id="feColorMatrix110"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         type="matrix"
+         in="SourceAlpha" />
+      <feOffset
+         id="feOffset112"
+         dy="8.63191" />
+      <feGaussianBlur
+         id="feGaussianBlur114"
+         stdDeviation="22.8129" />
+      <feColorMatrix
+         id="feColorMatrix116"
+         values="0 0 0 0 0.133333 0 0 0 0 0.321569 0 0 0 0 0.980392 0 0 0 0.09 0"
+         type="matrix" />
+      <feBlend
+         id="feBlend118"
+         result="effect1_dropShadow"
+         in2="BackgroundImageFix"
+         mode="normal" />
+      <feColorMatrix
+         id="feColorMatrix120"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         type="matrix"
+         in="SourceAlpha" />
+      <feOffset
+         id="feOffset122"
+         dy="33.2945" />
+      <feGaussianBlur
+         id="feGaussianBlur124"
+         stdDeviation="16.6473" />
+      <feColorMatrix
+         id="feColorMatrix126"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"
+         type="matrix" />
+      <feBlend
+         id="feBlend128"
+         result="effect2_dropShadow"
+         in2="effect1_dropShadow"
+         mode="normal" />
+      <feColorMatrix
+         id="feColorMatrix130"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         type="matrix"
+         in="SourceAlpha" />
+      <feOffset
+         id="feOffset132"
+         dy="-3.69939" />
+      <feGaussianBlur
+         id="feGaussianBlur134"
+         stdDeviation="4.31596" />
+      <feColorMatrix
+         id="feColorMatrix136"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.02 0"
+         type="matrix" />
+      <feBlend
+         id="feBlend138"
+         result="effect3_dropShadow"
+         in2="effect2_dropShadow"
+         mode="normal" />
+      <feBlend
+         id="feBlend140"
+         result="shape"
+         in2="effect3_dropShadow"
+         in="SourceGraphic"
+         mode="normal" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       filterUnits="userSpaceOnUse"
+       height="349.382"
+       width="234.652"
+       y="53.7005"
+       x="350.404"
+       id="filter1_d">
+      <feFlood
+         id="feFlood143"
+         result="BackgroundImageFix"
+         flood-opacity="0" />
+      <feColorMatrix
+         id="feColorMatrix145"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         type="matrix"
+         in="SourceAlpha" />
+      <feOffset
+         id="feOffset147"
+         dy="12.3313"
+         dx="-6.16565" />
+      <feGaussianBlur
+         id="feGaussianBlur149"
+         stdDeviation="22.8129" />
+      <feColorMatrix
+         id="feColorMatrix151"
+         values="0 0 0 0 0.0572917 0 0 0 0 0.19525 0 0 0 0 0.55 0 0 0 0.25 0"
+         type="matrix" />
+      <feBlend
+         id="feBlend153"
+         result="effect1_dropShadow"
+         in2="BackgroundImageFix"
+         mode="normal" />
+      <feBlend
+         id="feBlend155"
+         result="shape"
+         in2="effect1_dropShadow"
+         in="SourceGraphic"
+         mode="normal" />
+    </filter>
+  </defs>
+  <rect
+     y="220.55789"
+     x="89.759804"
+     height="99.811104"
+     width="26.948999"
+     id="rect166"
+     style="fill:#6536eb;fill-opacity:1;stroke:#6536eb;stroke-width:0.999993;stroke-opacity:1" />
+  <rect
+     style="fill:#0b5fe9;fill-opacity:1;stroke:#0b5fe9;stroke-width:1;stroke-opacity:1"
+     id="rect166-7"
+     width="26.948999"
+     height="124.84946"
+     x="125.283"
+     y="195.51955" />
+  <rect
+     y="170.93996"
+     x="159.80699"
+     height="149.42906"
+     width="26.948999"
+     id="rect166-7-5"
+     style="fill:#f13d6f;stroke:#f13d6f;stroke-width:0.999996" />
+  <rect
+     style="fill:#0b61ee;stroke:#0b5fea;stroke-width:0.999997;fill-opacity:1;stroke-opacity:1"
+     id="rect166-7-5-1"
+     width="26.948999"
+     height="175.12592"
+     x="194.33"
+     y="145.24312" />
+</svg>
