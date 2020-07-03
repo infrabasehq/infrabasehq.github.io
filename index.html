@@ -6,8 +6,24 @@
         <meta content="width=device-width, initial-scale=1" name="viewport">
         <link href="infrabase.css" rel="stylesheet" type="text/css">
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;600;700&display=swap" rel="stylesheet">
+        <script>
+            window.ga = window.ga || function () { (ga.q = ga.q || []).push(arguments) }; ga.l = +new Date;
+            ga('create', 'UA-78077877-6', 'auto');
+            if (document.cookie.split(';').filter(
+                function (item) { return item.trim().indexOf('_ga=') == 0 }).length) {
+                ga(function (tracker) {
+                    ga('set', 'dimension1', tracker.get('clientId'));
+                });
+                ga('set', 'dimension2', String(new Intl.DateTimeFormat().resolvedOptions().timeZone));
+                ga('set', 'dimension3', String(new Date().getTimezoneOffset()));
+            }
+            ga('set', 'dataSource', String(navigator.userAgent));
+            ga('set', 'dimension4', String(new Date().getTime()));
+            ga('send', 'pageview');
+        </script>
+        <script async src='https://www.google-analytics.com/analytics.js'></script>
         <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif]-->
-        <script type="text/javascript">
+        <script>
             !function (o, c) { var n = c.documentElement, t = " w-mod-"; n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch") }(window, document);
         </script>
         <link href="favicon.png" rel="shortcut icon" type="image/x-icon">
